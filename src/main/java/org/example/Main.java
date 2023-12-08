@@ -11,8 +11,5 @@ public class Main {
 
     public static void main(String[] args) {
 
-        var agora = LocalDate.parse("2022-02-02");
-        System.out.println(agora);
-
     }
 }
